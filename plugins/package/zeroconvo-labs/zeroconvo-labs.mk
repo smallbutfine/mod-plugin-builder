@@ -4,7 +4,7 @@
 #
 ######################################
 
-ZEROCONVO_LABS_VERSION = 35248cdaa4b04fcbdcc0f9a7873cccd066fcf3b6
+ZEROCONVO_LABS_VERSION = ec2ff40b5f9701fdc2e3944657f3737b89be4b18
 ZEROCONVO_LABS_SITE = git://gareus.org/zeroconvo.lv2
 ZEROCONVO_LABS_SITE_METHOD = git
 ZEROCONVO_LABS_BUNDLES = zeroconvo.lv2
